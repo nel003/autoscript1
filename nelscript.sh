@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Original script by fornesia, rzengineer and fawzya 
-# Mod by Clrkz for Adding OCS Panel
+# Mod by Nel003 for Adding OCS Panel
 # 
 # ==================================================
 
