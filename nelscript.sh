@@ -62,10 +62,10 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 country=ID
 state=Manila
 locality=Manila
-organization=ByteHAX
+organization=Nel003
 organizationalunit=IT
-commonname=bytehax.blogspot.com
-email=143Clarkz@gmail.com
+commonname=nelssh.tk:85
+email=alopena666666@gmail.com
 
 # go to root
 cd
